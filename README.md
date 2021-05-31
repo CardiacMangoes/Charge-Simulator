@@ -2,4 +2,4 @@
 
 Simulates a 2D Vector field of positive and negative charges
 
-![class structure](demo.gif)
+![](demo.gif)
